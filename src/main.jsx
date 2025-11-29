@@ -5,7 +5,7 @@ import "./index.css";
 import { UserProvider } from "./context/UserContext.jsx";
 import { ChatProvider } from "./context/ChatContext.jsx";
 
-export const server = "https://chatbot-backend-qw00.onrender.com";
+export const server = "https://chat-bot-backend-onq2.vercel.app/";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
